@@ -6,7 +6,7 @@
  - Installer is a 7z self exctacting archive, it will extract "SPP_Classics V2" folder where you put it.
  - It is recommended to use SSD if you have one
  - Run it and click Extract
- - Open the unpacked SPP_Classics_V2 folder and run **Server_Update.bat** and *wait* for it to download all necessary files. (~300 MB).
+ - Open the unpacked SPP_Classics_V2 folder and run **Server_Update.bat** and *wait* for it to download all necessary files. (~570 MB).
  - After it is ready you will see Expansion selection menu.
  - Expansions are downloaded "per request", e.g. TBC files (maps/mmaps...) are only downloaded if you select TBC expansion.
  - Select desired expansion by typing expansion menu number and hit Enter. Expansion files will be downloaded and installed automatically.
